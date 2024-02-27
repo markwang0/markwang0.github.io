@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://markwang0.github.io/sitemap.xml
+Sitemap: https://mark-wang.com/sitemap.xml
