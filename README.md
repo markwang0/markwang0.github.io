@@ -4,11 +4,12 @@ Mark Wang's personal website. Created with [Jekyll](https://jekyllrb.com/) and t
 
 https://mark-wang.com
 
-<!-- ### Desktop
+# Lighthouse PageSpeed Insights
 
-[![Google Lighthouse PageSpeed Insights](lighthouse_results/desktop/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/markwang0/markwang0.github.io/blob/master/lighthouse_results/desktop/markwang0_github_io.html)
+### Desktop
 
+[![Google Lighthouse PageSpeed Insights](lighthouse_results/desktop/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/markwang0/markwang0.github.io/blob/master/lighthouse_results/desktop/mark_wang_com.html)
 
 ### Mobile
 
-[![Google Lighthouse PageSpeed Insights](lighthouse_results/mobile/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/markwang0/markwang0.github.io/blob/master/lighthouse_results/mobile/markwang0_github_io.html) -->
+[![Google Lighthouse PageSpeed Insights](lighthouse_results/mobile/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/markwang0/markwang0.github.io/blob/master/lighthouse_results/mobile/mark_wang_com.html)
