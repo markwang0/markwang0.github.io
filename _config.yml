@@ -76,7 +76,7 @@ telegram_username: # your Telegram user name
 scholar_userid: utWUjzQAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-0663-7980
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -104,9 +104,8 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Center for Water and the Environment, Room 44<br>
-  Pickle Research Campus<br>
-  10100 Burnet Road, Bldg. 119<br>
+  Center for Water and the Environment<br>
+  J.J. Pickle Research Campus, UT Austin<br>
   Austin, TX 78758<br>
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
