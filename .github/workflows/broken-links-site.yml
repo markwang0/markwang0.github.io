@@ -1,7 +1,6 @@
 name: Check for broken links on site
 
-on:
-  workflow_dispatch
+on: workflow_dispatch
 jobs:
   check-links-on-site:
     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-a-workflow-based-on-the-conclusion-of-another-workflow
