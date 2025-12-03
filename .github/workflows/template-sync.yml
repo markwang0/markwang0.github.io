@@ -1,0 +1,23 @@
+name: Sync from template
+on:
+  # automatically run at 00:00 on first of each month
+  schedule:
+    - cron: "0 0 1 * *"
+  # or run with manual trigger
+  workflow_dispatch:
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      # to use this repository's private action must check out the repository
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: actions-template-sync
+        uses: AndreasAugustin/actions-template-sync@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source_repo_path: alshedivat/al-folio
+          upstream_branch: master
