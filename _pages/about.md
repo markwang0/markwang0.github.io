@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Mark (王凯章).
+Hi, I'm Mark.
 
 I'm a Ph.D. Candidate in the [PassaH2O Group](https://sites.google.com/site/passalacquagroup) at the University of Texas at Austin.
 
