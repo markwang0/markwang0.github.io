@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Mark.
 
-I'm a postdoctoral researcher at Princeton University, where I work with [Gabriele Villarini](https://villarini.scholar.princeton.edu/). I earned my Ph.D. in Civil Engineering from the University of Texas at Austin, advised by 
+I'm a postdoctoral researcher at Princeton University, where I work with [Gabriele Villarini](https://villarini.scholar.princeton.edu/). I earned my Ph.D. in Civil Engineering from the University of Texas at Austin, advised by
 [Paola Passalacqua](https://sites.google.com/site/passalacquagroup).
 
 I'm interested in flood processes and impacts, compound hazards, and high-performance computing.
