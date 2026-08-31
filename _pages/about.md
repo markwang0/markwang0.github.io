@@ -21,9 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Mark.
 
-I'm a Ph.D. Candidate in the [PassaH2O Group](https://sites.google.com/site/passalacquagroup) at the University of Texas at Austin.
+I'm a postdoctoral researcher at Princeton University, where I work with [Gabriele Villarini](https://villarini.scholar.princeton.edu/). I earned my Ph.D. in Civil Engineering from the University of Texas at Austin, advised by 
+[Paola Passalacqua](https://sites.google.com/site/passalacquagroup).
 
-I am interested in flood inundation mapping, compound hazards, GIS, and high-performance computing.
+I'm interested in flood processes and impacts, compound hazards, and high-performance computing.
 
 Before graduate school I worked as a green infrastructure engineer in the private and public sectors.
 

@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 cv: true
 github_username: markwang0
 gitlab_username: # your GitLab user name
-x_username: __markwang
+x_username: # your X (Twitter) handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: markkwang
 telegram_username: # your Telegram user name
@@ -104,9 +104,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Center for Water and the Environment<br>
-  J.J. Pickle Research Campus, UT Austin<br>
-  Austin, TX 78758<br>
+  E308 Engineering Quad<br>
+  Princeton University<br>
+  59 Olden St. Princeton, NJ 08540
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
